@@ -1,10 +1,8 @@
 # Pwnable.tw - Start
-:::success
-Website : Pwnable.tw
-Challenge : Start
-Writeup author : Redhung aka r3dhun9
->Contact :[Philip Chen (Facebook)](https://www.facebook.com/philip.chen.581)
-:::
+* Website : Pwnable.tw
+* Challenge : Start
+* Writeup author : Redhung aka r3dhun9
+>Contact : [Philip Chen (Facebook)](https://www.facebook.com/philip.chen.581)
 
 ## 0x01
 Let's use **objdump** or **r2** to disassemble the binary first :
