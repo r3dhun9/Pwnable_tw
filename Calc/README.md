@@ -63,7 +63,7 @@ There is a lot of writeups describe the vulnerability, and I like [this writeup]
 
 The most difficult thing I encountered is **Leaking the saved ebp and calculating the offset.**
 
-And we will get a negative number of saved ebp, I used **gdb** to find out the value on the stack and calculate their difference.
+Moreover, we got a negative number of saved ebp, so I used **gdb** to find out the value on the stack and calculate their difference.
 
 I got the **0x100000000**, that means our saved ebp must plus **0x100000000** everytime to get the true value.
 
