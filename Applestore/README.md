@@ -1,7 +1,7 @@
 # Pwnable.tw - Applestore
 
 * Website : Pwnable.tw
-* Challenge : Silverbullet
+* Challenge : Applestore 
 * Writeup author : Redhung aka r3dhun9
 >Contact :[Philip Chen (Facebook)](https://www.facebook.com/philip.chen.581)
 
